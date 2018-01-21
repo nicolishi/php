@@ -10,7 +10,7 @@
 
 	<?php 
 
-echo "olaggggg";
+echo "ola mundo;
 	 ?>
 	
 </body>
